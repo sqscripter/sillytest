@@ -1,13 +1,9 @@
-<xml>
-    <title>Your HTML title</title>
-    <htmlData><![CDATA[<html>
-        <head>
-            <script/>
-        </head>
-        <body>
-        Your HTML's body
-        </body>
-        </html>
-     ]]>
-    </htmlData>
-</xml>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="sigma"></ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      html stuff here
+    ]]>
+  </Content>
+</Module>
